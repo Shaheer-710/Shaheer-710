@@ -4,8 +4,8 @@ I'm a passionate developer always eager to learn and grow. 🌱
 
 Skills:
 
-Frontend: HTML, CSS, JavaScript
-Backend: Python 🐍
+HTML, CSS, JavaScript
+Backend , Python 🐍
 Goals:
 
 Become a full-stack developer 🌐
