@@ -12,7 +12,6 @@ Tools: Git 🐙, npm 📦, Yarn 🧶, Docker 🐳, Kubernetes ☸️
 Projects Showcased in My Portfolio ✨
 
 E-commerce App 🛒: Built a robust e-commerce platform using React ⚛️, Redux 🔄, and Node.js 🖥️, featuring product listings, cart functionality, and secure checkout. 🔒
-Weather App 🌦️: Developed a cross-platform weather app using React Native 📱 and a weather API 🌐, providing real-time weather updates and forecasts. ☀️ 🌧️ ⛈️
 Social Media App 📱: Created a social media app with user authentication 🔒, feed, and messaging features using React ⚛️, Node.js 🖥️, and MongoDB 🗄️.
 
 Skills and Experience 💼
